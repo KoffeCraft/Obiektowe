@@ -29,5 +29,6 @@ public class Uczen extends Osoba{
         return "Uczen{ imie=" + getImie() + " nazwisko=" + getNazwisko() +
                 " nrUcznia=" + nrUcznia +
                 '}';
+        //komentarz
     }
 }
